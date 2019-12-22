@@ -1,0 +1,21 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Collection of solutions for basic algorithms in JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "algorithms",
+    "algorithm",
+    "javascript",
+    "data",
+    "structures",
+    "big",
+    "O",
+    "notatio"
+  ],
+  "author": "Swaleh Mhina",
+  "license": "ISC"
+}
